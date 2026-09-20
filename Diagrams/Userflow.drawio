@@ -1,0 +1,153 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="8z6K03UrFzUTrRouVyev">
+    <mxGraphModel dx="1956" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MuXLoUENuiisqOenAilm-64" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;" target="MuXLoUENuiisqOenAilm-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-47" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" value="" vertex="1">
+          <mxGeometry height="210" width="176" x="451" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-62" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="MuXLoUENuiisqOenAilm-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-7" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" value="" vertex="1">
+          <mxGeometry height="210" width="176" x="105" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-52" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="MuXLoUENuiisqOenAilm-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-38" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Проступок" vertex="1">
+          <mxGeometry height="60" width="100" x="130" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-4" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate4.element;appType=event;archiType=rounded;archiDomain=common;" value="Фиксация&lt;div&gt;проступка&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="-180" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-13" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;b&gt;Документ&lt;/b&gt;&lt;div&gt;&lt;b&gt;Дисцилинарное событие&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="166" x="105" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-30" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MuXLoUENuiisqOenAilm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-15" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate4.element;appType=event;archiType=rounded;archiDomain=common;" value="Фиксация&amp;nbsp;&lt;div&gt;прогула&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="-180" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-16" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate4.element;appType=event;archiType=rounded;archiDomain=common;" value="Фиксация&lt;div&gt;заслуги&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="-180" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-23" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="MuXLoUENuiisqOenAilm-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="280" />
+              <mxPoint x="-240" y="380" />
+            </Array>
+            <mxPoint x="-90" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-17" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Начальник&lt;div&gt;подразделения&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="-320" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-58" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="MuXLoUENuiisqOenAilm-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-18" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" value="" vertex="1">
+          <mxGeometry height="80" width="176" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-19" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;b&gt;Документ&lt;/b&gt;&lt;div&gt;&lt;b&gt;Прогул / неявка&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="166" x="20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-20" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;i&gt;типовая конфигурация&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="20" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-21" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="MuXLoUENuiisqOenAilm-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="280" />
+              <mxPoint x="-240" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-22" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="MuXLoUENuiisqOenAilm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-25" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="MuXLoUENuiisqOenAilm-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="280" />
+              <mxPoint x="-50" y="325" />
+            </Array>
+            <mxPoint x="108.19999999999982" y="303.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-26" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MuXLoUENuiisqOenAilm-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-40" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MuXLoUENuiisqOenAilm-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-28" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="-50" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-31" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="MuXLoUENuiisqOenAilm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-53" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-36" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate4.element;appType=event;archiType=rounded;archiDomain=common;" value="Рассмотрение&lt;div&gt;ввод на основа&lt;/div&gt;&lt;div&gt;нии&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="320" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-54" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="MuXLoUENuiisqOenAilm-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-42" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Заслуга" vertex="1">
+          <mxGeometry height="60" width="100" x="130" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-46" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="MuXLoUENuiisqOenAilm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-48" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="О наказании" vertex="1">
+          <mxGeometry height="60" width="100" x="476" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-49" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="&lt;b&gt;Документ&lt;/b&gt;&lt;div&gt;&lt;b&gt;Дисцилинарный приказ&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="166" x="451" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-50" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="О поощрении" vertex="1">
+          <mxGeometry height="60" width="100" x="476" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-56" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" target="MuXLoUENuiisqOenAilm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-55" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="РУководитлеь&lt;div&gt;организации&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="355" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-59" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="MuXLoUENuiisqOenAilm-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-57" parent="1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFFFF;shape=mxgraph.archimate4.element;appType=event;archiType=rounded;archiDomain=common;" value="Ввод на&lt;div&gt;основан&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="10" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-60" edge="1" parent="1" source="MuXLoUENuiisqOenAilm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="MuXLoUENuiisqOenAilm-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="280" />
+              <mxPoint x="-240" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-61" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Докладная&lt;div&gt;записка&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="148" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="MuXLoUENuiisqOenAilm-63" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="Приказ" vertex="1">
+          <mxGeometry height="60" width="90" x="494" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
